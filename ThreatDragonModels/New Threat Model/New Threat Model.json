@@ -16,7 +16,7 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.4.1",
-        "cells": [
+          "cells": [
           {
             "position": {
               "x": 735,
@@ -175,7 +175,7 @@
               "threats": [
                 {
                   "id": "eeba4488-176f-4646-ad06-b71ef6eeec41",
-                  "title": "#5 Подделка личности при входе(Spoofing)",
+                  "title": "1 Подделка личности при входе(Spoofing)",
                   "status": "Open",
                   "severity": "Critical",
                   "type": "Spoofing",
@@ -188,7 +188,7 @@
                 },
                 {
                   "id": "e0947d60-0e4a-4bcd-9ec9-247f05656808",
-                  "title": "#6 Загрузка вредоносного файла(Tampering)",
+                  "title": "6 Загрузка вредоносного файла(Tampering)",
                   "status": "Open",
                   "severity": "High",
                   "type": "Repudiation",
@@ -201,7 +201,7 @@
                 },
                 {
                   "id": "de4dc0e1-6b28-4bfe-95ed-8afd85e31986",
-                  "title": "#7 Утечка персональных данных(Information Disclosure)",
+                  "title": "5 Утечка персональных данных(Information Disclosure)",
                   "status": "Open",
                   "severity": "High",
                   "type": "Repudiation",
@@ -214,7 +214,7 @@
                 },
                 {
                   "id": "f4283c26-071e-48a5-be72-743db429f06a",
-                  "title": "#8 Получение чужого резюме",
+                  "title": "13 Получение чужого резюме",
                   "status": "Open",
                   "severity": "High",
                   "type": "Spoofing",
@@ -355,7 +355,7 @@
               "threats": [
                 {
                   "id": "e4385893-049d-4478-a96b-3b442919c544",
-                  "title": "#9 Подделка личности рекрутера",
+                  "title": "3 Подделка личности рекрутера",
                   "status": "Open",
                   "severity": "Critical",
                   "type": "Spoofing",
@@ -368,7 +368,7 @@
                 },
                 {
                   "id": "dc715fe9-4aa5-41b3-892e-b843ec58f237",
-                  "title": "#10 Утечка персональных данных кандидатов ()",
+                  "title": "21 Утечка персональных данных кандидатов",
                   "status": "Open",
                   "severity": "High",
                   "type": "Repudiation",
@@ -381,7 +381,7 @@
                 },
                 {
                   "id": "735c2015-93e0-4def-a903-a719da694a29",
-                  "title": "#11 Отказ рекрутера от действий",
+                  "title": "29 Отказ рекрутера от действий",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Repudiation",
@@ -394,7 +394,7 @@
                 },
                 {
                   "id": "df34e004-fede-4413-9b28-fd94a3a8454f",
-                  "title": "#38 Доступ рекрутера к данным кандидатов, подающихся на вакансии, не относящиеся к данному рекрутеру(Information Disclosure)",
+                  "title": "19 Доступ рекрутера к данным кандидатов, подающихся на вакансии, не относящиеся к данному рекрутеру(Information Disclosure)",
                   "status": "Open",
                   "severity": "High",
                   "type": "Spoofing",
@@ -531,7 +531,7 @@
               "threats": [
                 {
                   "id": "54683e8b-0a1a-4dac-b1b0-c4880accfb50",
-                  "title": "#33 Перезапись чужого резюме",
+                  "title": "18 Перезапись чужого резюме",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -544,7 +544,7 @@
                 },
                 {
                   "id": "e6d8fa1e-de12-43bb-9dfb-f832baf12542",
-                  "title": "#35 Загрузка файла в исполняемую директорию",
+                  "title": "17 Загрузка файла в исполняемую директорию",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -685,7 +685,7 @@
               "threats": [
                 {
                   "id": "cfd559a5-7698-4bf7-bc37-f1ba0aa83f9b",
-                  "title": "#12 Изменение сообщений в чате",
+                  "title": "16 Изменение сообщений в чате",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -698,7 +698,7 @@
                 },
                 {
                   "id": "61c5eb6e-81f7-431d-8d46-21ba3c35a150",
-                  "title": "#13 Перегрузка чата",
+                  "title": "28 Перегрузка чата",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Denial of service",
@@ -711,7 +711,7 @@
                 },
                 {
                   "id": "e31ddde7-46b3-4bf5-b1a5-cb745ed3b4c7",
-                  "title": "#14 Утечка сообщений из чата",
+                  "title": "22 Утечка сообщений из чата",
                   "status": "Open",
                   "severity": "High",
                   "type": "Information disclosure",
@@ -724,7 +724,7 @@
                 },
                 {
                   "id": "98231c1f-16a6-4724-ba15-88d6f15fdf3b",
-                  "title": "#40 Вставка вредоносного кода в сообщение",
+                  "title": "14 Вставка вредоносного кода в сообщение",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -884,7 +884,7 @@
               "threats": [
                 {
                   "id": "5a4dabfe-604d-4095-bc13-c27794d45ae9",
-                  "title": "#15 Изменение информации в личном деле",
+                  "title": "12 Изменение информации в личном деле",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -897,7 +897,7 @@
                 },
                 {
                   "id": "a98eac0e-e2ee-406b-9599-d60da18ede98",
-                  "title": "#16 Отказ от изменений в системе",
+                  "title": "24 Отказ от изменений в системе",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Repudiation",
@@ -910,7 +910,7 @@
                 },
                 {
                   "id": "464cccfe-7ab9-497a-9cf8-68eb1171f1c8",
-                  "title": "#17 Доступ к личным делам других кандидатов (Elevation of Privilege)",
+                  "title": "10 Доступ к личным делам других кандидатов (Elevation of Privilege)",
                   "status": "Open",
                   "severity": "High",
                   "type": "Information disclosure",
@@ -923,7 +923,7 @@
                 },
                 {
                   "id": "87e2ae33-78ca-4198-b009-3f2631636579",
-                  "title": "#18 Утечка данных кандидата из системы",
+                  "title": "9 Утечка данных кандидата из системы",
                   "status": "Open",
                   "severity": "High",
                   "type": "Information disclosure",
@@ -936,7 +936,7 @@
                 },
                 {
                   "id": "1bc9cfd7-99c6-4830-81ee-a20c0a048933",
-                  "title": "#19 Хранение устаревших или лишних данных о кандидатах",
+                  "title": "27 Хранение устаревших или лишних данных о кандидатах",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Information disclosure",
@@ -949,7 +949,7 @@
                 },
                 {
                   "id": "9dff3b7d-521d-4d70-a58f-2e1e4ff05db8",
-                  "title": "#20 Переполнение системы рекрутинга",
+                  "title": "26 Переполнение системы рекрутинга",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Denial of service",
@@ -1094,7 +1094,7 @@
               "threats": [
                 {
                   "id": "e8d32031-4b1a-4f20-bcfc-dcc0436861ce",
-                  "title": "#21 Логи чата сохраняются в открытом виде",
+                  "title": "25 Логи чата сохраняются в открытом виде",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Information disclosure",
@@ -1107,7 +1107,7 @@
                 },
                 {
                   "id": "48c6b8e1-965c-4f9e-861c-9b6375db91b7",
-                  "title": "#41 Отрицание факта общения в чате",
+                  "title": "32 Отрицание факта общения в чате",
                   "status": "Open",
                   "severity": "Low",
                   "type": "Repudiation",
@@ -1872,7 +1872,7 @@
               "threats": [
                 {
                   "id": "c28f45e4-c1b0-48fa-bc6a-f514aa0d64c2",
-                  "title": "#36 Удаление вакансии через подмену запроса",
+                  "title": "23 Удаление вакансии через подмену запроса",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -1885,7 +1885,7 @@
                 },
                 {
                   "id": "1a266967-3e19-491a-8089-a4d788a6dbf6",
-                  "title": "#37 Доступ к скрытым вакансиям",
+                  "title": "30 Доступ к скрытым вакансиям",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Information disclosure",
@@ -2026,7 +2026,7 @@
               "threats": [
                 {
                   "id": "1345eee7-89e6-4e54-9d7d-52d08ea73398",
-                  "title": "#28 Доступ в чат без аутентификации",
+                  "title": "15 Доступ в чат без аутентификации",
                   "status": "Open",
                   "severity": "High",
                   "type": "Spoofing",
@@ -2039,7 +2039,7 @@
                 },
                 {
                   "id": "d9e6bd5a-a994-4516-9d3e-63d3fdc363ab",
-                  "title": "#29 Вход кандидата под видом рекрутера",
+                  "title": "2 Вход кандидата под видом рекрутера",
                   "status": "Open",
                   "severity": "Critical",
                   "type": "Spoofing",
@@ -2052,7 +2052,7 @@
                 },
                 {
                   "id": "77cde870-0b35-4443-8a21-5d213f27d0e1",
-                  "title": "#30 Отсутствие защиты от подбора пароля",
+                  "title": "7 Отсутствие защиты от подбора пароля",
                   "status": "Open",
                   "severity": "High",
                   "type": "Spoofing",
@@ -2065,7 +2065,7 @@
                 },
                 {
                   "id": "d2f10cc4-1b79-4e7c-a41d-a26a2ca42927",
-                  "title": "#31 Подмена токена доступа",
+                  "title": "8 Подмена токена доступа",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -2078,7 +2078,7 @@
                 },
                 {
                   "id": "8cfa2225-de76-4e8b-94b5-313aaa39b42c",
-                  "title": "#32 Назначение повышенных прав",
+                  "title": "4 Назначение повышенных прав",
                   "status": "Open",
                   "severity": "Critical",
                   "type": "Elevation of privilege",
@@ -2219,7 +2219,7 @@
               "threats": [
                 {
                   "id": "0b3a21d8-c291-4c42-97dd-5009be35064e",
-                  "title": "#24 Подмена флага при сдаче",
+                  "title": "20 Подмена флага при сдаче",
                   "status": "Open",
                   "severity": "High",
                   "type": "Tampering",
@@ -2232,7 +2232,7 @@
                 },
                 {
                   "id": "04b85089-2812-4517-85d8-43ff5bad73f4",
-                  "title": "#25 Просмотр чужого задания",
+                  "title": "33 Просмотр чужого задания",
                   "status": "Open",
                   "severity": "TBD",
                   "type": "Elevation of privilege",
@@ -2245,7 +2245,7 @@
                 },
                 {
                   "id": "14dc2978-44b1-469e-a43a-30ba250e64ee",
-                  "title": "#26 Сдача задания другим человеком",
+                  "title": "11 Сдача задания другим человеком",
                   "status": "Open",
                   "severity": "High",
                   "type": "Spoofing",
@@ -2258,7 +2258,7 @@
                 },
                 {
                   "id": "baba8ade-f8a9-44d1-baa2-c3e4b2ecdeec",
-                  "title": "#27 Отказ от факта сдачи задания",
+                  "title": "31 Отказ от факта сдачи задания",
                   "status": "Open",
                   "severity": "Medium",
                   "type": "Repudiation",
