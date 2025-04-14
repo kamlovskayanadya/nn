@@ -737,7 +737,7 @@
                 },
                 {
                   "id": "967e9a41-5435-46e3-a2c1-57fbc1400c3c",
-                  "title": "#43 Перегрузка чата",
+                  "title": "28 Перегрузка чата",
                   "status": "Open",
                   "severity": "TBD",
                   "type": "Denial of service",
