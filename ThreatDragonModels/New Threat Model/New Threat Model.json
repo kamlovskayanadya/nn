@@ -16,7 +16,7 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.4.1",
-          "cells": [
+        "cells": [
           {
             "position": {
               "x": 735,
@@ -735,7 +735,19 @@
                   "number": 40,
                   "score": ""
                 },
-                
+                {
+                  "id": "967e9a41-5435-46e3-a2c1-57fbc1400c3c",
+                  "title": "#43 Перегрузка чата",
+                  "status": "Open",
+                  "severity": "TBD",
+                  "type": "Denial of service",
+                  "description": "Злоумышленник может отправить большое количество сообщений, что приведёт к перегрузке интерфейса или сервера.  \nCWE-400: Uncontrolled Resource Consumption",
+                  "mitigation": "Установить лимит на длину текста.  \nOWASP ASVS 13.4.1",
+                  "modelType": "STRIDE",
+                  "new": false,
+                  "number": 43,
+                  "score": ""
+                }
               ],
               "threatFrequency": {
                 "spoofing": 1,
@@ -2269,6 +2281,7 @@
             }
           }
         ],
+
         "description": "Threat diagram"
       }
     ],
